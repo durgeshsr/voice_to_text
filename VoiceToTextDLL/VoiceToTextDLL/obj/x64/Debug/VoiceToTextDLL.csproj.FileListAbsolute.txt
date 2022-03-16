@@ -1,0 +1,11 @@
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\VoiceToTextDLL.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\VoiceToTextDLL.pdb
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\obj\x64\Debug\VoiceToTextDLL.csprojAssemblyReference.cache
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\obj\x64\Debug\VoiceToTextDLL.csproj.CopyComplete
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\obj\x64\Debug\VoiceToTextDLL.dll
+C:\Users\durgesh.ramani\source\repos\VoiceToTextDLL\VoiceToTextDLL\obj\x64\Debug\VoiceToTextDLL.pdb
